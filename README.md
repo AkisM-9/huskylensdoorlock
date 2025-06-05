@@ -49,3 +49,7 @@ Optional:
 3. If a match is found, the relay triggers and unlocks the door.  
 4. After 5 seconds, the system relocks automatically.
 
+Images🖼️
+![alt text]()
+![alt text]()
+![alt text]()
