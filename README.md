@@ -50,6 +50,6 @@ Optional:
 4. After 5 seconds, the system relocks automatically.
 
 Images🖼️
-![Back view](back-view.jpg)
-![alt text]()
-![alt text]()
+![Back view](back.jpg)
+![alt text](front.jpg)
+![alt text](motherboard.jpg)
